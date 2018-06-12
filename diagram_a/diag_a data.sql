@@ -16,6 +16,8 @@ insert into rooms(Number,Level,Style,Viev,Beds,Smoking,LoginID)
 values(2,3,'premium','sea',4,'NO',2222);
 insert into rooms(Number,Level,Style,Viev,Beds,Smoking,LoginID)
 values(3,2,'basic','lake',2,'NO',2222);
+insert into rooms(Number,LoginID)
+values(4,2222);
 
 ----insert data into reservations------
 insert into reservations(ResNumber,CheckIn,CheckOut,LoginID)
@@ -24,4 +26,7 @@ insert into reservations(ResNumber,CheckIn,CheckOut,LoginID)
   values(12,'2018-06-05 10:00:00',2222,2); 
 insert into reservations(ResNumber,CheckIn,CheckOut,LoginID)
   values(13,'2018-04-09 10:00:00','2018-04-13 10:00:00',2222);
+
+
+
 
