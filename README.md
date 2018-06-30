@@ -11,6 +11,6 @@
 
 # Diagram in Chen's notation
 Diagram A
-![Chen's diagram](/diagram_a/Capture.jpg)
+![Chen's diagram](./diagram_a/Capture.jpg)
 
 #### Enjoy!
